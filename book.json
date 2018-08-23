@@ -1,0 +1,14 @@
+{
+	"plugins": ["language-picker", "youtube"],
+    "links": {
+        "sidebar": {
+            "Visit us": "http://www.realitymod.com"
+        }
+    },
+    "pluginsConfig": {
+	},
+	
+	"styles": {
+        "website": "./styles/website.css"
+	}
+}
